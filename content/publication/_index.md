@@ -1,9 +1,7 @@
-
+---
 title: "Stock market dynamics and the relative importance of domestic, foreign, and common shocks"
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
 - Josefine Quast
@@ -75,3 +73,4 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
+---
