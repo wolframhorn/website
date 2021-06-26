@@ -14,13 +14,14 @@ organizations:
   url: https://www.eui.eu/en/academic-units/department-of-economics
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include International Macroeconomics, Macro-Finance, Monetary Economics, Firm Dynamics
+bio: I am a Ph.D. Candidate in Economics at the European University Institute (EUI), Florence, Italy. My supervisors are Ramon Marimon and Russell Cooper.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- International Macroeconomics
+- Macro-Finance
+- Monetary Economics
+- Firm Dynamics
 
 # Education to show in About widget
 education:
@@ -70,7 +71,7 @@ email: "carl-wolfram.horn@eui.eu"
 highlight_name: false
 ---
 
-I am a Ph.D. Candidate in Economics at the European University Institute (EUI), Florence, Italy.
-My Research Interests are International Macroeconomics, Macro-Finance, and Monetary Economics. 
+# I am a Ph.D. Candidate in Economics at the European University Institute (EUI), Florence, Italy.
+# My Research Interests are International Macroeconomics, Macro-Finance, and Monetary Economics. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
