@@ -72,6 +72,5 @@ highlight_name: false
 ---
 
 I am a Ph.D. Candidate in Economics at the European University Institute (EUI), Florence, Italy. My supervisors are Ramon Marimon and Russell Cooper.
-# My Research Interests are International Macroeconomics, Macro-Finance, and Monetary Economics. 
 
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
