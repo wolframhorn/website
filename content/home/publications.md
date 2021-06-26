@@ -11,6 +11,7 @@ weight: 90
 
 title: Research
 subtitle: ''
+
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
