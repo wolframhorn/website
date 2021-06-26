@@ -1,16 +1,78 @@
 ---
-title: Publications
-cms_exclude: true
+title: "Stock market dynamics and the relative importance of domestic, foreign, and common shocks"
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
-view: 4
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# and it will be replaced with their full name and linked to their profile.
+authors:
+- admin
+- Josefine Quast
+- Martin Ademmer
 
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
+# Author notes (optional)
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+
+date: "2013-07-01T00:00:00Z"
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2017-01-01T00:00:00Z"
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["1"]
+
+# Publication name and optional abbreviated publication name.
+publication: In International Journal of Finance and Economics
+publication_short: In IJFE
+
+abstract: We quantify the contemporaneous relationships among stock markets in the euro area, the United States, and a group of emerging economies over the period from 2008 to 2017. Exploiting the heteroskedasticity in the stock market data, we identify shocks that originated in the respective domestic markets and shocks that are common to all markets. Our results underline the leading role of the United States in international equity markets, but also point to the importance of indirect spillovers for all economies. Variance decompositions show that while domestic shocks explain the bigger part of the variation in each stock market, a substantial part of the variation in the euro area and the emerging economies can be attributed to foreign shocks. A comparison with a sample covering the pre-crisis period from 1999 to 2007 suggests a strengthening of the linkages among global stock markets in recent years. In particular, the spillovers from advanced to emerging economies have become more pronounced.
+
+# Summary. An optional shortened abstract.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
+tags: []
+
+# Display this page in the Featured widget?
+featured: true
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: 'https://onlinelibrary.wiley.com/doi/10.1002/ijfe.2194'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- example
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: example
 ---
