@@ -36,9 +36,12 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
-<font size="5">Published Papers
+<font size="7">Published Papers
 </font>
+# Published Papers
 
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
+
+# Work in Progress
