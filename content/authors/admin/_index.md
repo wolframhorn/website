@@ -14,7 +14,7 @@ organizations:
   url: https://www.eui.eu/en/academic-units/department-of-economics
 
 # Short bio (displayed in user profile at end of posts)
-bio: Welcome!
+bio: 
 
 # Interests to show in About widget
 interests:
