@@ -1,13 +1,12 @@
 ---
-title: "Stock market dynamics and the relative importance of domestic, foreign, and common shocks"
+title: "An example conference paper"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Josefine Quast
-- Martin Ademmer
+- Robert Ford
 
 # Author notes (optional)
 author_notes:
@@ -27,10 +26,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In International Journal of Finance and Economics
-publication_short: In IJFE
+publication: In *Wowchemy Conference*
+publication_short: In *ICW*
 
-abstract: We quantify the contemporaneous relationships among stock markets in the euro area, the United States, and a group of emerging economies over the period from 2008 to 2017. Exploiting the heteroskedasticity in the stock market data, we identify shocks that originated in the respective domestic markets and shocks that are common to all markets. Our results underline the leading role of the United States in international equity markets, but also point to the importance of indirect spillovers for all economies. Variance decompositions show that while domestic shocks explain the bigger part of the variation in each stock market, a substantial part of the variation in the euro area and the emerging economies can be attributed to foreign shocks. A comparison with a sample covering the pre-crisis period from 1999 to 2007 suggests a strengthening of the linkages among global stock markets in recent years. In particular, the spillovers from advanced to emerging economies have become more pronounced.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -45,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://onlinelibrary.wiley.com/doi/10.1002/ijfe.2194'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -86,3 +85,4 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
