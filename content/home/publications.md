@@ -53,6 +53,9 @@ design:
 ### COVID-19 and Productivity in Europe: A Responsiveness Perspective 
 (with Russell Cooper and Leonardo Indraccolo)
 
+### Quantitative Easing and Sovereign Bond Supply
+(with Stefano Corradin and Niklas Grimm)
+
 # Policy Papers
 ### On the Measurement of Risk-Sharing in the Euro Area
 (with Alessandro Giovannini, Francesco Mongelli, and Alexander Popov) <br>
