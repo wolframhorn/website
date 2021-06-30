@@ -44,8 +44,9 @@ design:
 *International Journal of Finance and Economics, Nov. 2020* <br>
 [[Link]](https://onlinelibrary.wiley.com/doi/10.1002/ijfe.2194)
 
-<br>
+
 # Work in Progress
+
 ###### Monetary Policy and Mergers and Acquisitions 
 (with Johannes Fischer) <br>
 *Draft available upon request*
@@ -56,8 +57,9 @@ design:
 ###### Quantitative Easing and Sovereign Bond Supply
 (with Stefano Corradin and Niklas Grimm)
 
-<br>
+
 # Other Articles
+
 ###### On the Measurement of Risk-Sharing in the Euro Area
 (with Alessandro Giovannini, Francesco Mongelli, and Alexander Popov) <br>
 In: *ECB Financial Integration and Financial Structures Report, 2020* <br>
