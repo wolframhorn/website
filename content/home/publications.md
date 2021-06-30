@@ -59,7 +59,7 @@ design:
 # Policy Papers
 ### On the Measurement of Risk-Sharing in the Euro Area
 (with Alessandro Giovannini, Francesco Mongelli, and Alexander Popov) <br>
-In: *ECB Financial Integration and Financial Structures Report, 2020*
+In: *ECB Financial Integration and Financial Structures Report, 2020* <br>
 [[Link]](https://www.ecb.europa.eu/pub/fie/html/ecb.fie202003~197074785e.en.html#toc26)
 
 ### European Financial Integration During the COVID-19 Crisis
@@ -69,4 +69,5 @@ In: *ECB Financial Integration and Financial Structures Report, 2020*
 
 ### An Early View at Risk-Sharing During the COVID-19 Crisis
 (with  Alessandro Giovannini and Francesco Mongelli) <br>
-*VoxEU* [[Link]](https://voxeu.org/article/early-view-euro-area-risk-sharing-during-covid-19-crisis)
+*VoxEU* <br> 
+[[Link]](https://voxeu.org/article/early-view-euro-area-risk-sharing-during-covid-19-crisis)
