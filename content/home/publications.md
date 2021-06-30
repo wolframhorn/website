@@ -39,13 +39,11 @@ design:
 
 # Published Papers
 
-## Stock market dynamics and the relative importance of domestic, foreign, and common shocks (with Martin Ademmer and Josefine Quast)
-### International Journal of Finance and Economics
+### Stock market dynamics and the relative importance of domestic, foreign, and common shocks 
+*(with Martin Ademmer and Josefine Quast)*
+**International Journal of Finance and Economics**
 [Link](https://onlinelibrary.wiley.com/doi/10.1002/ijfe.2194)
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
 
 # Work in Progress
 
