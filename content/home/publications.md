@@ -49,7 +49,7 @@ design:
 
 **Monetary Policy and Mergers and Acquisitions**  <br>
 (with Johannes Fischer) <br>
-<sup>*(To be) Presented at: International Panel Data Conference 2021, EcoMod 2021, 10th PhD Student Conference on International Macroeconomics, European Economics and Finance Society 2021 Annual Conference, VfS Annual Conference 2021*</sup> <br>
+<sub>*(To be) Presented at: International Panel Data Conference 2021, EcoMod 2021, 10th PhD Student Conference on International Macroeconomics, European Economics and Finance Society 2021 Annual Conference, VfS Annual Conference 2021*</sub> <br>
 
 **COVID-19 and Productivity in Europe: A Responsiveness Perspective** <br>
 (with Russell Cooper and Leonardo Indraccolo) <br>
