@@ -37,7 +37,7 @@ design:
   view: 4
 ---
 
-# Published Papers
+## Published Papers
 
 ###### Stock market dynamics and the relative importance of domestic, foreign, and common shocks 
 (with Martin Ademmer and Josefine Quast) <br>
@@ -45,7 +45,7 @@ design:
 [[Link]](https://onlinelibrary.wiley.com/doi/10.1002/ijfe.2194)
 
 
-# Work in Progress
+## Work in Progress
 
 ###### Monetary Policy and Mergers and Acquisitions 
 (with Johannes Fischer) <br>
@@ -58,7 +58,7 @@ design:
 (with Stefano Corradin and Niklas Grimm)
 
 
-# Other Articles
+## Other Articles
 
 ###### On the Measurement of Risk-Sharing in the Euro Area
 (with Alessandro Giovannini, Francesco Mongelli, and Alexander Popov) <br>
