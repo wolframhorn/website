@@ -63,7 +63,7 @@ design:
 (with Alessandro Giovannini, Francesco Mongelli, and Alexander Popov) <br>
 In: *ECB Financial Integration and Financial Structures Report, 2020*, [[Link]](https://www.ecb.europa.eu/pub/fie/html/ecb.fie202003~197074785e.en.html#toc26) <br>
 
-**European Financial Integration During the COVID-19 Crisis**
+**European Financial Integration During the COVID-19 Crisis** <br>
 (with  Stefano Borgioli, Urszula Kochanska, Philippe Molitor, and Francesco Mongelli) <br>
 *ECB Economic Bulletin, Issue 7, November 2020*, [[Link]](https://www.ecb.europa.eu/pub/economic-bulletin/articles/2020/html/ecb.ebart202007_02~b27e8089c5.en.html) [[VoxEU]](https://voxeu.org/article/european-financial-integration-during-covid-19-crisis) <br> 
 
