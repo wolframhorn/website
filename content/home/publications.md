@@ -43,6 +43,7 @@ design:
 (with Martin Ademmer and Josefine Quast) <br>
 *International Journal of Finance and Economics, Nov. 2020*, [[Link]](https://onlinelibrary.wiley.com/doi/10.1002/ijfe.2194)<br>
 
+***
 
 ## Work in Progress
 
@@ -56,6 +57,7 @@ design:
 **Quantitative Easing and Sovereign Bond Supply** <br>
 (with Stefano Corradin and Niklas Grimm) <br>
 
+***
 
 ## Other Articles
 
