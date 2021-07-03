@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: Custom #minimal
+theme: minimal
 # themeVariant: mine
 day_night: false
 font: ''
