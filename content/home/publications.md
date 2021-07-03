@@ -41,9 +41,9 @@ design:
 
 **Stock market dynamics and the relative importance of domestic, foreign, and common shocks** <br>
 (with Martin Ademmer and Josefine Quast) <br>
-*International Journal of Finance and Economics, Nov. 2020*, [[Link]](https://onlinelibrary.wiley.com/doi/10.1002/ijfe.2194)
+*International Journal of Finance and Economics, Nov. 2020*, [[Link]](https://onlinelibrary.wiley.com/doi/10.1002/ijfe.2194)<br>
 
-<br>
+
 ## Work in Progress
 
 **Monetary Policy and Mergers and Acquisitions**  <br>
@@ -54,9 +54,9 @@ design:
 (with Russell Cooper and Leonardo Indraccolo) <br>
 
 **Quantitative Easing and Sovereign Bond Supply** <br>
-(with Stefano Corradin and Niklas Grimm)
+(with Stefano Corradin and Niklas Grimm) <br>
 
-<br>
+
 ## Other Articles
 
 **On the Measurement of Risk-Sharing in the Euro Area** <br>
