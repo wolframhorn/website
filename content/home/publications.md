@@ -47,15 +47,15 @@ design:
 
 ## Work in Progress
 
-**Monetary Policy and Mergers and Acquisitions**  <br>
-(with Johannes Fischer) <br>
-<sub>*(To be) Presented at: International Panel Data Conference 2021, EcoMod 2021, 10th PhD Student Conference on International Macroeconomics, European Economics and Finance Society 2021 Annual Conference, VfS Annual Conference 2021*</sub> <br>
+**Quantitative Easing and Sovereign Bond Supply** <br>
+(with Stefano Corradin and Niklas Grimm) <br>
 
 **COVID-19 and Productivity in Europe: A Responsiveness Perspective** <br>
 (with Russell Cooper and Leonardo Indraccolo) <br>
 
-**Quantitative Easing and Sovereign Bond Supply** <br>
-(with Stefano Corradin and Niklas Grimm) <br>
+**Monetary Policy and Mergers and Acquisitions**  <br>
+(with Johannes Fischer) <br>
+<sub>*(To be) Presented at: International Panel Data Conference 2021, EcoMod 2021, 10th PhD Student Conference on International Macroeconomics, European Economics and Finance Society 2021 Annual Conference, VfS Annual Conference 2021, 27th Annual Meeting of the German Finance Society*</sub> <br>
 
 ---
 
